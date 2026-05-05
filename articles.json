@@ -446,10 +446,10 @@
     "path": "importacao-para-a-america-latina/001-importar-da-china-para-a-america-latina-muda-tanto-assim-ou-e-so-o-mesmo-processo-com-outro-nome.html",
     "url": "https://compraschinalatam.com/importacao-para-a-america-latina/001-importar-da-china-para-a-america-latina-muda-tanto-assim-ou-e-so-o-mesmo-processo-com-outro-nome.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:35Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 1,
     "slug": "001-importar-da-china-para-a-america-latina-muda-tanto-assim-ou-e-so-o-mesmo-processo-com-outro-nome",
-    "word_count": 480,
+    "word_count": 803,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -495,6 +495,59 @@
       {
         "type": "text",
         "text": "## Matriz por país e rota\n\nLeia este tema cruzando país, aduana, rota e mercado. A mesma compra muda quando o destino muda.\n\nAntes de comparar preço, veja se prazo, porto, documentação, canal de venda e adaptação do produto continuam fazendo sentido no país escolhido.\n\nSe a estratégia só funciona copiando a conta do Brasil para outro mercado, ela ainda não é uma estratégia LatAm.\n\nPara este artigo, a leitura prática é: importar da china para a américa latina muda tanto assim ou é só o mesmo processo com outro nome precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "text": "## Ferramenta prática: Tabela de custo\n\nUse esta ferramenta junto com o artigo sobre Importar da China para a América Latina muda tanto assim ou é só o mesmo processo com outro nome?. Ela transforma a leitura de Importação para a América Latina em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "title": "Tabela de custo para aplicar em: Importar da China para a América Latina muda tanto assim ou é só o mesmo processo com outro nome?",
+        "intro": "Preencha com números conservadores. Se algum campo ficar em branco, a margem ainda não está pronta.",
+        "headers": [
+          "Campo",
+          "Como preencher",
+          "Sinal de alerta"
+        ],
+        "rows": [
+          [
+            "Preço do produto",
+            "Valor por unidade ou lote",
+            "Preço só aparece em mensagem solta"
+          ],
+          [
+            "Frete e embalagem",
+            "Inclua peso, caixa, etiqueta e envio interno",
+            "Frete ainda depende de chute"
+          ],
+          [
+            "Imposto/custo local",
+            "Use cenário conservador",
+            "A conta ignora chegada ao destino"
+          ],
+          [
+            "Margem mínima",
+            "Compare com preço real de venda",
+            "Lucro depende de vender rápido demais"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "title": "Tabela de custo copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Importar da China para a América Latina muda tanto assim ou é só o mesmo processo com outro nome?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Produto: ____\nQuantidade: ____\nPreço unitário: ____\nFrete internacional: ____\nImposto/custo local: ____\nEmbalagem/frete interno: ____\nPreço de venda real: ____\nMargem mínima: ____\nDecisão: pagar / testar menor / pausar"
       }
     ],
     "faq": [
@@ -516,7 +569,10 @@
       "length_band": "medium",
       "voice": "regional",
       "site_layout": "regional",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "cost_calculator",
+      "tool_label": "Tabela de custo"
     }
   },
   {
@@ -539,10 +595,10 @@
     "path": "logistica-para-latam/001-frete-para-latam-demora-demais-ou-o-problema-esta-em-como-a-rota-foi-pensada.html",
     "url": "https://compraschinalatam.com/logistica-para-latam/001-frete-para-latam-demora-demais-ou-o-problema-esta-em-como-a-rota-foi-pensada.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:35Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 1,
     "slug": "001-frete-para-latam-demora-demais-ou-o-problema-esta-em-como-a-rota-foi-pensada",
-    "word_count": 664,
+    "word_count": 984,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -588,6 +644,59 @@
       {
         "type": "text",
         "text": "## Matriz por país e rota\n\nLeia este tema cruzando país, aduana, rota e mercado. A mesma compra muda quando o destino muda.\n\nAntes de comparar preço, veja se prazo, porto, documentação, canal de venda e adaptação do produto continuam fazendo sentido no país escolhido.\n\nSe a estratégia só funciona copiando a conta do Brasil para outro mercado, ela ainda não é uma estratégia LatAm.\n\nPara este artigo, a leitura prática é: frete para latam demora demais ou o problema está em como a rota foi pensada precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "quote_template",
+        "text": "## Ferramenta prática: Modelo de WhatsApp/e-mail\n\nUse esta ferramenta junto com o artigo sobre Frete para LatAm demora demais ou o problema está em como a rota foi pensada?. Ela transforma a leitura de Logística para LatAm em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "quote_template",
+        "title": "Campos para pedir cotação sobre: Frete para LatAm demora demais ou o problema está em como a rota foi pensada?",
+        "intro": "Antes de mandar a mensagem, confirme se a pergunta deixa pouco espaço para resposta vaga.",
+        "headers": [
+          "Campo",
+          "Informação a pedir",
+          "Resposta fraca"
+        ],
+        "rows": [
+          [
+            "Produto",
+            "Modelo, material, tamanho, variação",
+            "Fornecedor responde só com preço"
+          ],
+          [
+            "Quantidade",
+            "MOQ, preço por faixa e amostra",
+            "MOQ muda sem explicação"
+          ],
+          [
+            "Embalagem",
+            "Foto, etiqueta, caixa, proteção",
+            "Diz que ajusta depois"
+          ],
+          [
+            "Prazo e pagamento",
+            "Produção, envio, sinal, saldo",
+            "Pede pagamento antes de detalhar"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "quote_template",
+        "title": "Modelo de WhatsApp/e-mail copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Frete para LatAm demora demais ou o problema está em como a rota foi pensada?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Olá, estou avaliando este produto para compra no Brasil/LatAm.\nProduto/modelo: ____\nQuantidade inicial: ____\nPreciso confirmar: material, embalagem, MOQ, prazo de produção, frete estimado e condição em caso de defeito.\nVocê pode enviar foto/vídeo real do produto e cotação por faixa de quantidade?\nObrigado."
       }
     ],
     "faq": [
@@ -609,7 +718,10 @@
       "length_band": "medium",
       "voice": "regional",
       "site_layout": "regional",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "quote_template",
+      "tool_label": "Modelo de WhatsApp/e-mail"
     }
   },
   {
@@ -632,10 +744,10 @@
     "path": "comercio-regional/001-produto-que-funciona-no-brasil-vai-funcionar-igual-no-resto-da-regiao.html",
     "url": "https://compraschinalatam.com/comercio-regional/001-produto-que-funciona-no-brasil-vai-funcionar-igual-no-resto-da-regiao.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:35Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 1,
     "slug": "001-produto-que-funciona-no-brasil-vai-funcionar-igual-no-resto-da-regiao",
-    "word_count": 399,
+    "word_count": 701,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -681,6 +793,59 @@
       {
         "type": "text",
         "text": "## Matriz por país e rota\n\nLeia este tema cruzando país, aduana, rota e mercado. A mesma compra muda quando o destino muda.\n\nAntes de comparar preço, veja se prazo, porto, documentação, canal de venda e adaptação do produto continuam fazendo sentido no país escolhido.\n\nSe a estratégia só funciona copiando a conta do Brasil para outro mercado, ela ainda não é uma estratégia LatAm.\n\nPara este artigo, a leitura prática é: produto que funciona no brasil vai funcionar igual no resto da região precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "moq_matrix",
+        "text": "## Ferramenta prática: Matriz de MOQ\n\nUse esta ferramenta junto com o artigo sobre Produto que funciona no Brasil vai funcionar igual no resto da região?. Ela transforma a leitura de Comércio Regional em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "moq_matrix",
+        "title": "Matriz de MOQ para decidir em: Produto que funciona no Brasil vai funcionar igual no resto da região?",
+        "intro": "MOQ não é só quantidade mínima. Ele precisa caber em caixa, teste e giro.",
+        "headers": [
+          "Pergunta",
+          "Resposta que ajuda",
+          "Risco"
+        ],
+        "rows": [
+          [
+            "MOQ declarado",
+            "Quantidade mínima por cor/modelo",
+            "MOQ parece baixo, mas mistura variações"
+          ],
+          [
+            "Valor do teste",
+            "Total que você aceita aprender",
+            "Teste prende caixa demais"
+          ],
+          [
+            "Giro esperado",
+            "Quanto vender em 30-60 dias",
+            "Quantidade exige venda rápida demais"
+          ],
+          [
+            "Próximo lote",
+            "Condição para repetir",
+            "Fornecedor só dá preço bom em volume alto"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "moq_matrix",
+        "title": "Matriz de MOQ copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Produto que funciona no Brasil vai funcionar igual no resto da região?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "MOQ informado: ____\nQuantidade que consigo testar: ____\nCapital máximo do teste: ____\nVariações/cor/modelo incluídas: ____\nGiro esperado em 30-60 dias: ____\nO que preciso vender para repetir: ____\nDecisão: aceitar MOQ / negociar / trocar produto"
       }
     ],
     "faq": [
@@ -702,7 +867,10 @@
       "length_band": "short",
       "voice": "regional",
       "site_layout": "regional",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "moq_matrix",
+      "tool_label": "Matriz de MOQ"
     }
   },
   {
@@ -725,10 +893,10 @@
     "path": "importacao-para-a-america-latina/002-importar-da-china-para-a-america-latina-fica-inviavel-quando-cada-pais-muda-a-regra.html",
     "url": "https://compraschinalatam.com/importacao-para-a-america-latina/002-importar-da-china-para-a-america-latina-fica-inviavel-quando-cada-pais-muda-a-regra.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:35Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 2,
     "slug": "002-importar-da-china-para-a-america-latina-fica-inviavel-quando-cada-pais-muda-a-regra",
-    "word_count": 583,
+    "word_count": 886,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -774,6 +942,59 @@
       {
         "type": "text",
         "text": "## Matriz por país e rota\n\nLeia este tema cruzando país, aduana, rota e mercado. A mesma compra muda quando o destino muda.\n\nAntes de comparar preço, veja se prazo, porto, documentação, canal de venda e adaptação do produto continuam fazendo sentido no país escolhido.\n\nSe a estratégia só funciona copiando a conta do Brasil para outro mercado, ela ainda não é uma estratégia LatAm.\n\nPara este artigo, a leitura prática é: importar da china para a américa latina fica inviável quando cada país muda a regra precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "payment_risk",
+        "text": "## Ferramenta prática: Lista de risco de pagamento\n\nUse esta ferramenta junto com o artigo sobre Importar da China para a América Latina fica inviável quando cada país muda a regra?. Ela transforma a leitura de Importação para a América Latina em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "payment_risk",
+        "title": "Lista de risco de pagamento para: Importar da China para a América Latina fica inviável quando cada país muda a regra?",
+        "intro": "Antes de pagar, separe risco normal de risco sem prova.",
+        "headers": [
+          "Risco",
+          "Como reduzir",
+          "Não pagar se"
+        ],
+        "rows": [
+          [
+            "Produto vago",
+            "Descrição e prova salvas",
+            "Só existe promessa verbal"
+          ],
+          [
+            "Prazo incerto",
+            "Data e etapa por escrito",
+            "Fornecedor evita compromisso"
+          ],
+          [
+            "Pagamento adiantado",
+            "Valor menor, etapa ou plataforma",
+            "Pressa substitui prova"
+          ],
+          [
+            "Problema futuro",
+            "Defeito, atraso e reposição combinados",
+            "Ninguém assume responsabilidade"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "payment_risk",
+        "title": "Lista de risco de pagamento copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Importar da China para a América Latina fica inviável quando cada país muda a regra?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Valor a pagar agora: ____\nO que já está provado: ____\nO que ainda está só prometido: ____\nForma de pagamento: ____\nProteção/plataforma: ____\nCondição em caso de problema: ____\nSe eu precisar reclamar, que prova tenho? ____"
       }
     ],
     "faq": [
@@ -795,7 +1016,10 @@
       "length_band": "medium",
       "voice": "regional",
       "site_layout": "regional",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "payment_risk",
+      "tool_label": "Lista de risco de pagamento"
     }
   },
   {
@@ -818,10 +1042,10 @@
     "path": "logistica-para-latam/002-vale-dividir-embarque-para-a-america-latina-ou-isso-so-complica-mais-o-custo-final.html",
     "url": "https://compraschinalatam.com/logistica-para-latam/002-vale-dividir-embarque-para-a-america-latina-ou-isso-so-complica-mais-o-custo-final.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:35Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 2,
     "slug": "002-vale-dividir-embarque-para-a-america-latina-ou-isso-so-complica-mais-o-custo-final",
-    "word_count": 509,
+    "word_count": 818,
     "image_count": 2,
     "faq_count": 3,
     "related_links": [
@@ -876,6 +1100,59 @@
       {
         "type": "text",
         "text": "## Matriz por país e rota\n\nLeia este tema cruzando país, aduana, rota e mercado. A mesma compra muda quando o destino muda.\n\nAntes de comparar preço, veja se prazo, porto, documentação, canal de venda e adaptação do produto continuam fazendo sentido no país escolhido.\n\nSe a estratégia só funciona copiando a conta do Brasil para outro mercado, ela ainda não é uma estratégia LatAm.\n\nPara este artigo, a leitura prática é: vale dividir embarque para a américa latina ou isso só complica mais o custo final precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "text": "## Ferramenta prática: Tabela de custo\n\nUse esta ferramenta junto com o artigo sobre Vale dividir embarque para a América Latina ou isso só complica mais o custo final?. Ela transforma a leitura de Logística para Latam em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "title": "Tabela de custo para aplicar em: Vale dividir embarque para a América Latina ou isso só complica mais o custo final?",
+        "intro": "Preencha com números conservadores. Se algum campo ficar em branco, a margem ainda não está pronta.",
+        "headers": [
+          "Campo",
+          "Como preencher",
+          "Sinal de alerta"
+        ],
+        "rows": [
+          [
+            "Preço do produto",
+            "Valor por unidade ou lote",
+            "Preço só aparece em mensagem solta"
+          ],
+          [
+            "Frete e embalagem",
+            "Inclua peso, caixa, etiqueta e envio interno",
+            "Frete ainda depende de chute"
+          ],
+          [
+            "Imposto/custo local",
+            "Use cenário conservador",
+            "A conta ignora chegada ao destino"
+          ],
+          [
+            "Margem mínima",
+            "Compare com preço real de venda",
+            "Lucro depende de vender rápido demais"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "cost_calculator",
+        "title": "Tabela de custo copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Vale dividir embarque para a América Latina ou isso só complica mais o custo final?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Produto: ____\nQuantidade: ____\nPreço unitário: ____\nFrete internacional: ____\nImposto/custo local: ____\nEmbalagem/frete interno: ____\nPreço de venda real: ____\nMargem mínima: ____\nDecisão: pagar / testar menor / pausar"
       }
     ],
     "faq": [
@@ -897,7 +1174,10 @@
       "length_band": "medium",
       "voice": "regional",
       "site_layout": "regional",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "cost_calculator",
+      "tool_label": "Tabela de custo"
     }
   },
   {
@@ -920,10 +1200,10 @@
     "path": "comercio-regional/002-o-mesmo-produto-importado-vende-igual-no-chile-no-peru-e-no-brasil-ou-essa-conta-muda-mais-do-que-parece.html",
     "url": "https://compraschinalatam.com/comercio-regional/002-o-mesmo-produto-importado-vende-igual-no-chile-no-peru-e-no-brasil-ou-essa-conta-muda-mais-do-que-parece.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:35Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 2,
     "slug": "002-o-mesmo-produto-importado-vende-igual-no-chile-no-peru-e-no-brasil-ou-essa-conta-muda-mais-do-que-parece",
-    "word_count": 705,
+    "word_count": 1014,
     "image_count": 2,
     "faq_count": 3,
     "related_links": [
@@ -978,6 +1258,59 @@
       {
         "type": "text",
         "text": "## Matriz por país e rota\n\nLeia este tema cruzando país, aduana, rota e mercado. A mesma compra muda quando o destino muda.\n\nAntes de comparar preço, veja se prazo, porto, documentação, canal de venda e adaptação do produto continuam fazendo sentido no país escolhido.\n\nSe a estratégia só funciona copiando a conta do Brasil para outro mercado, ela ainda não é uma estratégia LatAm.\n\nPara este artigo, a leitura prática é: o mesmo produto importado vende igual no chile, no peru e no brasil ou essa conta muda mais do que parece precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "text": "## Ferramenta prática: Ficha de amostra\n\nUse esta ferramenta junto com o artigo sobre O mesmo produto importado vende igual no Chile, no Peru e no Brasil ou essa conta muda mais do que parece?. Ela transforma a leitura de Comércio Regional em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "title": "Ficha de amostra para: O mesmo produto importado vende igual no Chile, no Peru e no Brasil ou essa conta muda mais do que parece?",
+        "intro": "Amostra boa precisa virar critério. Não aprove só porque o item chegou.",
+        "headers": [
+          "Item",
+          "Como avaliar",
+          "Reprovar se"
+        ],
+        "rows": [
+          [
+            "Acabamento",
+            "Compare foto, material e toque",
+            "Difere do prometido"
+          ],
+          [
+            "Embalagem",
+            "Teste proteção e apresentação",
+            "Chega amassada ou sem padrão"
+          ],
+          [
+            "Uso real",
+            "Teste por algumas horas/dias",
+            "Falha antes de uso normal"
+          ],
+          [
+            "Repetição",
+            "Pergunte se o lote virá igual",
+            "Fornecedor não garante padrão"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "sample_acceptance",
+        "title": "Ficha de amostra copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: O mesmo produto importado vende igual no Chile, no Peru e no Brasil ou essa conta muda mais do que parece?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "Amostra recebida em: ____\nAcabamento: aprovado / revisar\nEmbalagem: aprovado / revisar\nTamanho/peso: aprovado / revisar\nTeste de uso: aprovado / revisar\nDiferença contra anúncio: ____\nPergunta antes do lote: ____"
       }
     ],
     "faq": [
@@ -999,7 +1332,10 @@
       "length_band": "long",
       "voice": "regional",
       "site_layout": "regional",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "sample_acceptance",
+      "tool_label": "Ficha de amostra"
     }
   },
   {
@@ -1022,10 +1358,10 @@
     "path": "comercio-regional/003-expandir-compra-para-outros-mercados-da-regiao-compensa-mesmo-quando-a-logistica-muda-de-pais-para-pais.html",
     "url": "https://compraschinalatam.com/comercio-regional/003-expandir-compra-para-outros-mercados-da-regiao-compensa-mesmo-quando-a-logistica-muda-de-pais-para-pais.html",
     "date": "2026-05-05",
-    "updated_at": "2026-05-05T07:05:35Z",
+    "updated_at": "2026-05-05T15:30:00Z",
     "number": 3,
     "slug": "003-expandir-compra-para-outros-mercados-da-regiao-compensa-mesmo-quando-a-logistica-muda-de-pais-para-pais",
-    "word_count": 530,
+    "word_count": 847,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -1071,6 +1407,59 @@
       {
         "type": "text",
         "text": "## Matriz por país e rota\n\nLeia este tema cruzando país, aduana, rota e mercado. A mesma compra muda quando o destino muda.\n\nAntes de comparar preço, veja se prazo, porto, documentação, canal de venda e adaptação do produto continuam fazendo sentido no país escolhido.\n\nSe a estratégia só funciona copiando a conta do Brasil para outro mercado, ela ainda não é uma estratégia LatAm.\n\nPara este artigo, a leitura prática é: expandir compra para outros mercados da região compensa mesmo quando a logística muda de país para país precisa virar uma decisão verificável, não apenas uma impressão boa durante a conversa."
+      },
+      {
+        "type": "text",
+        "round4_tool": true,
+        "tool_type": "moq_matrix",
+        "text": "## Ferramenta prática: Matriz de MOQ\n\nUse esta ferramenta junto com o artigo sobre Expandir compra para outros mercados da região compensa mesmo quando a logística muda de país para país?. Ela transforma a leitura de Comércio Regional em campos que você pode preencher antes de avançar. A ideia não é deixar a página mais longa. É fazer a leitura virar uma decisão que você consegue salvar, revisar e repetir."
+      },
+      {
+        "type": "table",
+        "round4_tool": true,
+        "tool_type": "moq_matrix",
+        "title": "Matriz de MOQ para decidir em: Expandir compra para outros mercados da região compensa mesmo quando a logística muda de país para país?",
+        "intro": "MOQ não é só quantidade mínima. Ele precisa caber em caixa, teste e giro.",
+        "headers": [
+          "Pergunta",
+          "Resposta que ajuda",
+          "Risco"
+        ],
+        "rows": [
+          [
+            "MOQ declarado",
+            "Quantidade mínima por cor/modelo",
+            "MOQ parece baixo, mas mistura variações"
+          ],
+          [
+            "Valor do teste",
+            "Total que você aceita aprender",
+            "Teste prende caixa demais"
+          ],
+          [
+            "Giro esperado",
+            "Quanto vender em 30-60 dias",
+            "Quantidade exige venda rápida demais"
+          ],
+          [
+            "Próximo lote",
+            "Condição para repetir",
+            "Fornecedor só dá preço bom em volume alto"
+          ]
+        ]
+      },
+      {
+        "type": "tool",
+        "round4_tool": true,
+        "tool_type": "moq_matrix",
+        "title": "Matriz de MOQ copiável",
+        "intro": "Copie este bloco e preencha antes de aplicar a decisão do artigo: Expandir compra para outros mercados da região compensa mesmo quando a logística muda de país para país?",
+        "items": [
+          "Use dados reais, não expectativa.",
+          "Marque qualquer campo que dependa só de promessa verbal.",
+          "Se dois campos críticos ficarem vazios, reduza o pedido ou peça nova prova."
+        ],
+        "copy_text": "MOQ informado: ____\nQuantidade que consigo testar: ____\nCapital máximo do teste: ____\nVariações/cor/modelo incluídas: ____\nGiro esperado em 30-60 dias: ____\nO que preciso vender para repetir: ____\nDecisão: aceitar MOQ / negociar / trocar produto"
       }
     ],
     "faq": [
@@ -1092,7 +1481,10 @@
       "length_band": "medium",
       "voice": "regional",
       "site_layout": "regional",
-      "cleanup": "p0_similarity_reduction"
+      "cleanup": "p0_similarity_reduction",
+      "tool_round": "round4_tool_content",
+      "tool_type": "moq_matrix",
+      "tool_label": "Matriz de MOQ"
     }
   }
 ]
