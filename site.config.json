@@ -1,0 +1,69 @@
+{
+  "site_name": "Compras China Latam",
+  "site_base_url": "https://compraschinalatam.com",
+  "language": "pt-BR",
+  "tagline": "Conteúdo sobre compras da China com foco em Brasil e América Latina.",
+  "description": "Guias e análises para quem quer entender importação da China com olhar voltado para logística, mercado e operação na América Latina.",
+  "author_name": "Redação Compras China Latam",
+  "brand_color": "#2e7d32",
+  "accent_color": "#ffb300",
+  "default_og_image": "/assets/og/default.webp",
+  "whatsapp": "https://wa.me/601133109658",
+  "default_categories": [
+    "Importação para a América Latina",
+    "Logística para LatAm",
+    "Fornecedores Chineses",
+    "Comércio Regional"
+  ],
+  "category_meta": {
+    "importacao-para-a-america-latina": {
+      "label": "Importação para a América Latina",
+      "description": "Conteúdo para entender a compra e a importação com foco no contexto latino-americano."
+    },
+    "logistica-para-latam": {
+      "label": "Logística para LatAm",
+      "description": "Guias sobre transporte, prazo, risco e operação logística para países latino-americanos."
+    },
+    "fornecedores-chineses": {
+      "label": "Fornecedores Chineses",
+      "description": "Dicas de avaliação e negociação com fornecedores chineses pensando no mercado da região."
+    },
+    "comercio-regional": {
+      "label": "Comércio Regional",
+      "description": "Artigos sobre contexto comercial, demanda e adaptação do produto ao mercado local."
+    }
+  },
+  "hero_title": "Como importar da China pensando no contexto da América Latina",
+  "hero_subtitle": "Um site para quem quer sair do olhar genérico e entender fornecedores, logística e operação com foco em Brasil e LatAm.",
+  "primary_cta_label": "Ver guias de importação",
+  "primary_cta_target": "/importacao-para-a-america-latina/",
+  "secondary_cta_label": "Entender logística",
+  "secondary_cta_target": "/logistica-para-latam/",
+  "pain_points": [
+    "Aplicar dicas globais sem adaptar à região",
+    "Subestimar logística e prazo",
+    "Não entender diferenças de mercado",
+    "Escolher fornecedor sem pensar no destino final",
+    "Errar na previsão de custo regional",
+    "Ignorar demanda local ao importar"
+  ],
+  "homepage_featured_categories": [
+    "importacao-para-a-america-latina",
+    "logistica-para-latam",
+    "comercio-regional"
+  ],
+  "homepage_faq": [
+    {
+      "q": "O que muda ao importar da China pensando na América Latina?",
+      "a": "Muda a leitura de mercado, a logística, o custo regional e a forma de adaptar produto e operação ao destino final."
+    },
+    {
+      "q": "Por que a logística para LatAm precisa de atenção especial?",
+      "a": "Porque prazo, custo, rota e risco podem variar bastante entre países e impactar a viabilidade da compra."
+    },
+    {
+      "q": "Posso usar a mesma estratégia de importação para toda a região?",
+      "a": "Não. A estratégia precisa considerar demanda local, custo regional, perfil do comprador e limitações operacionais de cada mercado."
+    }
+  ]
+}
