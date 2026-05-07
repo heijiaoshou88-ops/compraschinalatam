@@ -5,43 +5,41 @@
   "homepage_layout": "regional",
   "site_name": "Compras China Latam",
   "site_base_url": "https://compraschinalatam.com",
-  "tagline": "Importa\u00e7\u00e3o da China para a Am\u00e9rica Latina com foco em pa\u00eds, aduana, log\u00edstica e diferen\u00e7as regionais.",
-  "description": "Compras China Latam compara importa\u00e7\u00e3o da China no contexto latino-americano, considerando mercado local, aduana, log\u00edstica, pa\u00eds de destino e diferen\u00e7a regional.",
-  "author_name": "Reda\u00e7\u00e3o Compras China Latam",
+  "tagline": "Importar da China para LatAm exige decisão por país",
+  "description": "Comparações de rota, mercado, prazo, regra local, logística e adaptação antes de expandir compra pela América Latina.",
+  "author_name": "Equipe Compras China Latam, especialista em logística e mercado latino-americano",
   "brand_color": "#2e7d32",
   "accent_color": "#ffb300",
   "default_categories": [
-    "Importa\u00e7\u00e3o para a Am\u00e9rica Latina",
-    "Log\u00edstica para Latam",
-    "Com\u00e9rcio Regional"
+    "Importação para a América Latina",
+    "Logística para Latam",
+    "Comércio Regional"
   ],
   "category_meta": {
     "importacao-para-a-america-latina": {
-      "label": "Importa\u00e7\u00e3o por Pa\u00eds",
-      "description": "Como a decis\u00e3o muda quando o destino \u00e9 Brasil, Chile, Peru, M\u00e9xico, Col\u00f4mbia ou outro mercado latino."
+      "label": "Importação por País",
+      "description": "Como a decisão muda quando o destino é Brasil, Chile, Peru, México, Colômbia ou outro mercado latino."
     },
     "logistica-para-latam": {
-      "label": "Log\u00edstica e Aduana LatAm",
-      "description": "Frete, consolida\u00e7\u00e3o, prazo, porto, documenta\u00e7\u00e3o e gargalos regionais na chegada da carga."
+      "label": "Logística e Aduana LatAm",
+      "description": "Frete, consolidação, prazo, porto, documentação e gargalos regionais na chegada da carga."
     },
     "comercio-regional": {
       "label": "Mercado Regional",
-      "description": "Compara\u00e7\u00e3o de demanda, canal, pre\u00e7o e adapta\u00e7\u00e3o de produto entre pa\u00edses da Am\u00e9rica Latina."
+      "description": "Comparação de demanda, canal, preço e adaptação de produto entre países da América Latina."
     }
   },
-  "hero_title": "Importar da China para a Am\u00e9rica Latina por pa\u00eds",
-  "hero_subtitle": "Guias para comparar mercados latino-americanos, rotas, exig\u00eancias e adapta\u00e7\u00e3o de produto antes de tratar a regi\u00e3o como se fosse um \u00fanico destino.",
-  "primary_cta_label": "Comparar pa\u00edses",
-  "primary_cta_target": "/importacao-para-a-america-latina/",
-  "secondary_cta_label": "Planejar log\u00edstica LatAm",
-  "secondary_cta_target": "/logistica-para-latam/",
+  "hero_title": "Importar da China para LatAm país por país, sem média enganosa",
+  "hero_subtitle": "Comparações de rota, mercado, prazo, regra local, logística e adaptação antes de expandir compra pela América Latina.",
+  "primary_cta_label": "Comparar países",
+  "primary_cta_target": "/importacao-para-a-america-latina/003-importar-da-china-para-a-america-latina-muda-quanto-de-pais-para-pais.html",
+  "secondary_cta_label": "Comparar rota",
+  "secondary_cta_target": "/logistica-para-latam/003-como-comparar-rota-porto-e-prazo-antes-de-embarcar-para-latam.html",
   "pain_points": [
-    "Tratar Am\u00e9rica Latina como um mercado \u00fanico",
-    "Ignorar aduana, porto e prazo por pa\u00eds",
-    "Repetir no Chile, Peru ou M\u00e9xico a mesma conta feita para o Brasil",
-    "N\u00e3o adaptar embalagem, canal e pre\u00e7o ao mercado local",
-    "Dividir embarque sem medir custo regional",
-    "Escolher produto sem validar demanda por pa\u00eds"
+    "Risco central: 拉美市场差异、物流、清关、支付、国家差异",
+    "Leitor atendido: comprador regional que precisa comparar país, rota e regra antes de tratar LatAm como bloco único",
+    "Fronteira editorial: 不写只针对巴西的深度税费词",
+    "Decisão sempre baseada em prova, custo e condição para pausar"
   ],
   "homepage_featured_categories": [
     "importacao-para-a-america-latina",
@@ -50,22 +48,23 @@
   ],
   "homepage_faq": [
     {
-      "q": "Este site \u00e9 sobre Brasil ou Am\u00e9rica Latina?",
-      "a": "O foco \u00e9 Am\u00e9rica Latina como regi\u00e3o: diferen\u00e7as por pa\u00eds, aduana, log\u00edstica, canal e comportamento de mercado."
+      "q": "Importar para LatAm é igual ao Brasil?",
+      "a": "Não. País, rota, regra, canal, preço final e prazo mudam bastante."
     },
     {
-      "q": "O mesmo produto funciona igual em todos os pa\u00edses?",
-      "a": "N\u00e3o necessariamente. Pre\u00e7o, canal, imposto, prazo e h\u00e1bito de compra mudam bastante entre mercados latino-americanos."
+      "q": "Como comparar mercados latino-americanos?",
+      "a": "Monte uma conta por país com rota, prazo, regra, preço final, canal e adaptação do produto."
     },
     {
-      "q": "O que avaliar antes de dividir embarque para LatAm?",
-      "a": "Destino, volume, documenta\u00e7\u00e3o, custo por rota, prazo e se a economia log\u00edstica compensa a complexidade operacional."
+      "q": "Quando expandir para outro país?",
+      "a": "Quando a primeira operação já mostrou margem, reposição e processo previsíveis."
     }
   ],
   "author_profile": {
     "name": "Equipe editorial Compras China Latam",
-    "role": "Pesquisa editorial sobre importa\u00e7\u00e3o China-Am\u00e9rica Latina",
-    "bio": "Equipe focada em diferen\u00e7as por pa\u00eds, aduana, log\u00edstica, mercado regional e adapta\u00e7\u00e3o de produto na Am\u00e9rica Latina.",
-    "experience": "Os conte\u00fados comparam pa\u00eds, rota, prazo e canal de venda para evitar tratar a regi\u00e3o como um mercado \u00fanico."
-  }
+    "role": "Pesquisa editorial sobre importação China-América Latina",
+    "bio": "Equipe focada em diferenças por país, aduana, logística, mercado regional e adaptação de produto na América Latina.",
+    "experience": "Os conteúdos comparam país, rota, prazo e canal de venda para evitar tratar a região como um mercado único."
+  },
+  "precision_homepage_type": "região"
 }
