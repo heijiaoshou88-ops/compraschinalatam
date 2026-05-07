@@ -1,8 +1,8 @@
 [
   {
     "id": "20260507-logistica-para-latam-004",
-    "title": "Produto pequeno da China para Latam: rota barata ou atraso caro?",
-    "description": "Compare rota para produto pequeno na América Latina: frete, prazo, país de destino, estoque e quando o barato atrasa demais.",
+    "title": "Produto pequeno da China para Latam: a rota muda a margem",
+    "description": "Compare produto pequeno importado para Latam por país, prazo, frete e giro antes de escolher a rota mais barata.",
     "category": "Logística para Latam",
     "category_slug": "logistica-para-latam",
     "tags": [
@@ -19,10 +19,10 @@
     "path": "logistica-para-latam/004-produto-pequeno-da-china-para-latam-rota-barata-ou-atraso-caro.html",
     "url": "https://compraschinalatam.com/logistica-para-latam/004-produto-pequeno-da-china-para-latam-rota-barata-ou-atraso-caro.html",
     "date": "2026-05-07",
-    "updated_at": "2026-05-07T00:17:12Z",
+    "updated_at": "2026-05-07T01:36:07Z",
     "number": 4,
     "slug": "004-produto-pequeno-da-china-para-latam-rota-barata-ou-atraso-caro",
-    "word_count": 631,
+    "word_count": 463,
     "image_count": 1,
     "faq_count": 3,
     "related_links": [
@@ -72,21 +72,21 @@
       },
       {
         "type": "text",
-        "text": "Produto pequeno não significa logística simples. Um acessório leve pode funcionar no Brasil e perder sentido no Chile por prazo, ou parecer barato para o México e travar quando o volume ainda não fecha consolidação. Na América Latina, rota é parte da margem.\n\n## A comparação começa pelo país\n\nPara o mesmo produto, use três perguntas: qual é o prazo real, qual é o custo local depois da chegada e quanto estoque o vendedor consegue girar antes de repor.\n\nBrasil: prazo comum de 38 a 50 dias em rota conservadora para carga pequena consolidada.\n\nMéxico: pode ter janela mais curta em algumas rotas, mas exige atenção ao parceiro local.\n\nChile: mercado pode aceitar produto melhor acabado, mas lote pequeno pode ficar caro se o frete não diluir.\n\n## Dados para simular\n\nProduto: acessório pequeno para casa.\nFOB: US$ 1,60.\nMOQ: 600 unidades.\nFrete consolidado: US$ 180 a US$ 320.\nPrazo: 28 a 50 dias conforme país e rota.\nMargem esperada: acima de 35% depois de custo local.\n\nSe a rota barata aumenta o prazo e força estoque maior, ela pode sair mais cara que uma rota intermediária.\n\n## Onde isso quebra na região\n\nO comprador calcula o mesmo preço para três países. O fornecedor promete envio igual para toda a região. O prazo passa de 45 dias e o produto perde momento de venda. O custo de entrega local muda mais que o frete internacional.\n\n## GO, WAIT ou STOP\n\nContinue se o país de destino, rota, prazo e custo local estão separados na planilha.\n\nEspere se o fornecedor fala \"Latam\" como bloco único sem explicar porto, consolidação ou agente.\n\nPare se a margem só funciona quando todos os países têm o mesmo prazo e a mesma demanda.\n\n## Quando o barato não vale\n\nNão vale quando o produto depende de tendência rápida, quando o estoque é sazonal ou quando o prazo longo impede reposição. Mesmo que o FOB seja baixo, a rota errada consome o ganho.\n\n## Ação prática\n\nAntes de embarcar, escreva uma linha por país: produto, prazo, custo local, preço de venda e risco de estoque. Se a mesma resposta serve para todos, ela provavelmente está superficial demais.\n\n## O mesmo produto muda de lógica por país\n\nNa região, a pergunta certa não é \"quanto custa importar para Latam?\". A pergunta é \"qual país aguenta esse prazo, esse preço e esse estoque?\". Um produto pequeno para casa pode girar bem no Brasil, ser caro demais no Chile e perder timing no México se a rota atrasar.\n\nO fornecedor tende a simplificar porque olha o embarque saindo da China. O comprador precisa separar chegada, custo local e canal de venda em cada país. É aí que a rota barata mostra se é vantagem ou armadilha.\n\n## Como eu montaria a comparação\n\nBrasil: usar prazo conservador e calcular imposto, entrega local e devolução.\n\nMéxico: comparar rota e parceiro local antes de assumir reposição rápida.\n\nChile: revisar se o preço final aceita produto de melhor acabamento ou se o lote pequeno fica caro demais.\n\nSe as três linhas da planilha ficam iguais, a análise está rasa.\n\n## Fronteira de decisão\n\nGO se país, rota, prazo e preço local foram separados. WAIT se o agente só deu resposta geral para \"Latam\". STOP se a margem depende de todos os países venderem igual.\n\nProduto pequeno ajuda no frete, mas não conserta rota mal escolhida. O ganho real aparece quando o prazo combina com o giro do país."
+        "text": "Produto pequeno dá uma falsa sensação de simplicidade. O comprador vê caixa leve, preço baixo e imagina que a logística será fácil para qualquer país da América Latina. Não é assim. A rota muda a margem.\n\n## Latam não é uma linha única na planilha\n\nO mesmo acessório de casa pode fazer sentido no Brasil, ficar apertado no Chile e perder timing no México. Não porque o produto mudou. Porque prazo, entrega local, imposto, parceiro e giro mudaram.\n\nQuando o fornecedor diz \"ship to Latam\", ele está simplificando o lado dele. O comprador precisa separar o lado de cada mercado.\n\n## Três leituras para o mesmo produto\n\nBrasil: eu usaria prazo conservador de 38 a 50 dias para carga pequena consolidada e colocaria entrega local na conta.\n\nMéxico: eu compararia rota e parceiro antes de assumir reposição rápida.\n\nChile: eu olharia se o mercado aceita preço final maior por acabamento melhor ou se o lote pequeno fica caro demais.\n\nSe as três respostas ficam iguais, a análise provavelmente está rasa.\n\n## A conta mínima\n\nProduto: acessório pequeno para casa.\nFOB: US$ 1,60.\nMOQ: 600 unidades.\nFrete consolidado: US$ 180 a US$ 320.\nPrazo: 28 a 50 dias.\nMargem desejada: acima de 35% depois do custo local.\n\nA rota mais barata só é melhor se o prazo ainda combina com o giro. Se o produto depende de tendência rápida, 15 dias a mais podem custar mais que o frete economizado.\n\n## Onde a operação quebra\n\nO comprador usa o mesmo preço de venda para países diferentes. O fornecedor promete prazo parecido para tudo. A carga chega, mas a entrega local muda a conta. O produto pequeno não compensa porque o estoque fica parado esperando canal de venda amadurecer.\n\nOutro erro: dividir embarque cedo demais. Parece esperto atender vários países, mas aumenta coordenação, documentação e risco de sobra.\n\n## Como eu decidiria\n\nEu seguiria se cada país tivesse sua própria linha: prazo, custo local, preço de venda e giro.\n\nEu esperaria se o agente responde \"Latam\" sem dizer rota, porto, consolidação ou parceiro.\n\nEu pararia se a margem só funciona quando Brasil, México e Chile vendem igual. Eles não vendem igual.\n\n## Pergunta prática para o agente\n\n\"Para esse produto e esse volume, qual rota você usaria para Brasil, México e Chile separadamente? Pode informar prazo estimado, tipo de carga e ponto onde costuma haver atraso?\"\n\nSe a resposta vem igual para todos, ela ainda não serve para decidir."
       }
     ],
     "faq": [
       {
-        "q": "Posso usar a mesma rota para toda a América Latina?",
-        "a": "Nem sempre. País, prazo, custo local e giro mudam bastante entre mercados."
+        "q": "Produto pequeno sempre tem frete fácil?",
+        "a": "Não. Consolidação, prazo e entrega local podem mudar a margem mesmo com caixa leve."
       },
       {
-        "q": "Produto pequeno sempre compensa no frete?",
-        "a": "Não. Se o volume não dilui consolidação ou se o prazo fica alto, a margem pode sumir."
+        "q": "Posso calcular Latam como um mercado só?",
+        "a": "Não para decisão de compra. Cada país precisa de prazo, custo e giro próprios."
       },
       {
-        "q": "Quando escolher rota mais cara?",
-        "a": "Quando o produto depende de reposição rápida ou quando atraso derruba venda e caixa."
+        "q": "Quando a rota barata não vale?",
+        "a": "Quando atrasa reposição, prende estoque ou faz o produto perder o momento de venda."
       }
     ]
   },
